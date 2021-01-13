@@ -26,3 +26,5 @@ let first = nums[0]
 let last = nums[4]
 let sum = first + last
 console.log(sum)
+
+//Daily Challenge 4
