@@ -35,3 +35,14 @@ let person = [yourName, name1, name2]
 for (let i = 0; 1 < person.lenght; i ++){
   console.log (person[i])
 }
+
+//Daily Challenge 5
+//Please create a function that takes in an array of numbers and returns a new array that only contains odd numbers.
+function printOdd(num) {
+  for (let i=1; i<num; i++) {
+    if(i % 2 !== 0) {
+      console.log(i);
+    }
+  }
+}
+array([1,2,3,4,5])
