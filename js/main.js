@@ -28,3 +28,10 @@ let sum = first + last
 console.log(sum)
 
 //Daily Challenge 4
+//Please create a function that takes in the name of a person. This function should add this person to a names list and let them know their position on the list. The names list should be created outside of the function.
+var yourName = window.prompt("Enter your name: ");
+
+let person = [yourName, name1, name2]
+for (let i = 0; 1 < person.lenght; i ++){
+  console.log (person[i])
+}
